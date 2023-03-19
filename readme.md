@@ -1,4 +1,8 @@
- ```mermaid
+# Burj Khalifa Work Breakdown Structure
+
+## Simplified Overview of Project
+
+```mermaid
     graph TD;
 id45(Burj Khalifa Construction)-->id1(Plan and Design)
 id45(Burj Khalifa Construction)-->id4(Pour Concrete Floors)
@@ -45,6 +49,7 @@ id8(Final Inspection and Handover)-->id42(Conduct Final Inspection);
 id8(Final Inspection and Handover)-->id43(Obtain Occupancy Permit);
 id8(Final Inspection and Handover)-->id44(Hand Over Building);
 ```
+## Detailed WBS of Project Initiation
 ```mermaid
     graph TD;
 id1(Project Initiation)--> id2(Establish Project Objectives);
